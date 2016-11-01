@@ -8,7 +8,7 @@ Unfortunately, we don't have the app built out yet, but don't worry, we will!
 
 ## Okay, what do I need to know to play MtG?
 
-In order to use our soon-to-be super awesome app, you need an internet browser (preferably Chromium), a strong internet connection, and knowledge of how to play MagicL The Gathering. Manoa: The Gathering won't have a system to check the rules, as it will be entirely based on the players' actions in what they choose to do. You can break the rules and cast your entire hand on the first turn, but your opponent will most likely report you and you will be banned. So don't do that please.
+In order to use our soon-to-be super awesome app, you need an internet browser (preferably a Chromium-based one), a strong internet connection, and knowledge of how to play Magic: The Gathering. MtG won't have a system to check the rules, as it will be entirely based on the players' actions in what they choose to do. You can break the rules and play your entire hand on the first turn, but your opponent will most likely report you and you will be banned. So don't do that please.
 
 ## Mockups
 
