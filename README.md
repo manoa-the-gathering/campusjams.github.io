@@ -4,15 +4,23 @@ Manoa: The Gathering is a free, fun, and functional online simulator of the trad
 
 ## That sounds awesome! How do I play?
 
-Unfortunately, we don't have the app built out yet, but don't worry, we will!
+[Click here](https://manoathegathering.meteorapp.com/) to play! Unfortunately, we don't have the entire app built out yet, but don't worry, we will soon.
 
 ## Okay, what do I need to know to play MtG?
 
 In order to use our soon-to-be super awesome app, you need an internet browser (preferably a Chromium-based one), a strong internet connection, and knowledge of how to play Magic: The Gathering. MtG won't have a system to check the rules, as it will be entirely based on the players' actions in what they choose to do. You can break the rules and play your entire hand on the first turn, but your opponent will most likely report you and you will be banned. So don't do that please.
 
-## Mockups
+## Screenshots
 
-**Here are some mockups of what our site/app will look like when we roll it out**
+**Here are some current screenshots of our app**
 
-<img src=https://raw.githubusercontent.com/manoa-the-gathering/manoa/master/doc/landingpage.jpg>
-<img src=https://raw.githubusercontent.com/manoa-the-gathering/manoa/master/doc/rulespage.jpg>
+![Landing page](/screenshots/landingpage.png)
+<br>
+![Landing page night](/screenshots/landingpagev2.png)
+<br>
+![About page](/screenshots/aboutpage.png)
+
+## Milestones
+
+[Milestone 1](https://github.com/manoa-the-gathering/ManoaTheGathering/projects/1)
+[Milestone 2](https://github.com/manoa-the-gathering/ManoaTheGathering/projects/2)
