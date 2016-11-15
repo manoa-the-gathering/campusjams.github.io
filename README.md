@@ -23,4 +23,5 @@ In order to use our soon-to-be super awesome app, you need an internet browser (
 ## Milestones
 
 [Milestone 1](https://github.com/manoa-the-gathering/ManoaTheGathering/projects/1)
+
 [Milestone 2](https://github.com/manoa-the-gathering/ManoaTheGathering/projects/2)
