@@ -37,7 +37,7 @@ Clicking the buttons on the bottom lead you to their respective pages. For examp
 ![Terminology Page](/screenshots/Terms.png)
 <br>
 #### Gameplay Page
-![Gameplay Page](/screenshots/Play.png)
+![Gameplay Page](/screenshots/Game.png)
 
 ## Developer Guide
 
