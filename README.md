@@ -32,6 +32,12 @@ Clicking the buttons on the bottom lead you to their respective pages. For examp
 <br>
 #### Match & Chat Page
 ![Match Page](/screenshots/matchpage.png)
+<br>
+#### Terminology Page
+![Terminology Page](/screenshots/Terms.png)
+<br>
+#### Gameplay Page
+![Gameplay Page](/screenshots/Play.png)
 
 ## Developer Guide
 
