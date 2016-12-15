@@ -51,7 +51,9 @@ Once you're done chatting and making friends, you can start playing a game with 
 ![Battle Page](/screenshots/battle.png)
 <br>
 <br>
-Now that you're in the battle page, you'll see in the chat box who was randomly assigned to go first. That person can draw and play their turn through the steps of Magic (detailed in the tutorial page). There is another chat box within the battle page for you to communicate with your opponent, and buttons that are intuitively labeled with what they do. For instance, _Draw_ has you draw a card from your deck. On the left, you'll see the Life Points of both players and you can add or subtract from the LP. 
+Now that you're in the battle page, you'll see in the chat box who was randomly assigned to go first. That person can draw and play their turn through the steps of Magic (detailed in the tutorial page). You can click on your cards to tap them! Isn't that awesome?
+<br>
+There is another chat box within the battle page for you to communicate with your opponent, and buttons that are intuitively labeled with what they do. For instance, _Draw_ has you draw a card from your deck. On the left, you'll see the Life Points of both players and you can add or subtract from the LP.
 <br>
 <br>
 Note that when you're playing, it tells you who is on the green side and who is on the blue side. Please only play and interact with the cards on your proper side, or that will be a violation of our rules. Furthermore, your initial hand will be laid face-down. Clicking on the cards in your hand will flip them face-up to be seen only by you.
