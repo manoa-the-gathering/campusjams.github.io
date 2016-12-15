@@ -1,3 +1,5 @@
+![Landing Page](/screenshots/landing.png)
+
 # What is Manoa: The Gathering?
 
 Manoa: The Gathering is a free, fun, and functional online simulator of the trading card game Magic: The Gathering. But wait, it gets better! As the name implies, MtG (Manoa: The Gathering) is unique from Magic as it focuses on the lore and monuments of the University of Hawaii at Manoa.
@@ -12,11 +14,7 @@ First and foremost, you'll need a University of Hawaii account to sign in and pl
 
 ## Guided Tour
 
-If you see the following screen, that means you've clicked on the link above and you are now on Manoa: The Gathering. Congratulations!
-<br>
-<br>
-**Landing Page**
-![Landing Page](/screenshots/landing.png)
+If you see the above screen, that means you've clicked on the link above and you are now on Manoa: The Gathering. Congratulations!
 <br>
 <br>
 The footer at the bottom is how you'll navigate our site. First and foremost, let's look at the _about_ page so you know what we're all about.
@@ -43,7 +41,7 @@ Alright, let's get back to our _home_ page. If you click on the _Play now_ butto
 ![Chat Page](/screenshots/chat.png)
 <br>
 <br>
-Now you're in our _chat_ page! You can interact with other online users (listed on the right) by typing your messages into the text box below the chat. If you click on an online user, it replaces the chat with a DM between the two of you. If you want to go back to the general chat, click on the button labeled _General Chat_.
+Now you're in our _chat_ page! You can interact with other online users (listed on the right) by typing your messages into the text box below the chat. If you click on an online user, it replaces the chat with a DM between the two of you. If you want to go back to the general chat, click on the button labeled _General Chat_. **Awesome chat cheat: type "_rainbows_" without the quotes and be amazed!** If you're super lame and don't like it, type in "_no rainbows_".
 <br>
 <br>
 Once you're done chatting and making friends, you can start playing a game with someone else. If you click on someone's username and click on the button labeled _Match Request_, it sends them a match request. You'll notice messages appearing in the box below the chat. Once it tells you that the requested person has accepted the match request, click on _Accept_ and you'll get into the game. On the other hand, if someone sends you a match request, you can click on their name and then the _Accept_ button to accept their request.
@@ -58,11 +56,14 @@ Now that you're in the battle page, you'll see in the chat box who was randomly 
 <br>
 Note that when you're playing, it tells you who is on the green side and who is on the blue side. Please only play and interact with the cards on your proper side, or that will be a violation of our rules. Furthermore, your initial hand will be laid face-down. Clicking on the cards in your hand will flip them face-up to be seen only by you.
 <br>
+<br>
 Have fun!
 
 ## Developer Guide
 
 If you are a developer that would like to modify our app, you can click on the above button leading to our GitHub repo and clone it. The `master` branch is what is currently deployed to Galaxy. Our `kadira` branch is like our testing branch, in which we test functionalities before merging to `master`. The other branches are pretty self-explanatory, and our app follows the recent ES6 Meteor app structure.
+
+When you want to test out your changes, while you're in the _app_ directory, type the following command into your terminal: _meteor --settings ../config/settings.development.json_
 
 If you'd like to make changes, do what you want and then submit a pull request. We'll look it over and either merge it, or let you know about what should be changed!
 
