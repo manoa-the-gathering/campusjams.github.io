@@ -67,6 +67,18 @@ When you want to test out your changes, while you're in the _app_ directory, typ
 
 If you'd like to make changes, do what you want and then submit a pull request. We'll look it over and either merge it, or let you know about what should be changed!
 
+
+## Initial User Study
+
+Our users found that they didn't have a problem navigating the site as a whole. All but one immediately went to the about page, then logged in. As soon as they logged in, they all played with the chat feature for quite a while.
+
+At that point, we didn't have the battling working, so they briefly looked through the tutorial. All of our users knew how to play already, so they didn't spend much time there.
+
+All of them seemed to get the most enjoyment out of cosmetic details, such as the day/night loading page with the swinging Log In button and rainbows on the chat page.
+
+One mentioned that the "Hello, name" on the home page is a little hard to see, and a few other small things. But overall, they all loved the site.
+
+
 ## Contributors
 
 [Irene Fang](https://irene-f.github.io/), [Creighton Chan](https://creightonchan.github.io/), [John Headland](https://jheadland.github.io/), [Lexa Mink-Flacco](https://acvmf.github.io/)
