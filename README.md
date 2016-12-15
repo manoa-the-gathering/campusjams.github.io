@@ -4,40 +4,47 @@ Manoa: The Gathering is a free, fun, and functional online simulator of the trad
 
 ## Current site
 
-[Click here](https://manoathegathering.meteorapp.com/) to play! Unfortunately, we don't have the entire app built out yet, but don't worry, we will soon.
+[Click here](https://manoathegathering.meteorapp.com/) to play!
 
 ## Okay, what do I need to know to play MtG?
 
-In order to use our soon-to-be super awesome app, you need an internet browser (preferably a Chromium-based one), a strong internet connection, and knowledge of how to play Magic: The Gathering. MtG won't have a system to check the rules, as it will be entirely based on the players' actions in what they choose to do. You can break the rules and play your entire hand on the first turn, but your opponent will most likely report you and you will be banned. So don't do that please.
+First and foremost, you'll need a University of Hawaii account to sign in and play, so if you don't attend or work at UH, then sorry, this isn't the app for you. In order to use our soon-to-be super awesome app, you need an internet browser (preferably a Chromium-based one), a strong internet connection, and knowledge of how to play Magic: The Gathering. MtG doesn't have a system to check the rules, as it is entirely based on the players' actions in what they choose to do. You can break the rules and play your entire hand on the first turn, but your opponent will most likely report you and you will be banned. So don't do that please.
 
-## User Guide
+## Guided Tour
 
-In order to use our app, you must have a UH account. You click on the large "_Play now_" button to log in with your account, and then the button changes to "_Find a match_". Clicking on that leads to our match page, in which you can see and chat with other online users. We don't have the actual game implemented yet, but for now, you can trash talk your future opponents!
-
-Clicking the buttons on the bottom lead you to their respective pages. For example, "_about_" leads to the page that talks about our app. Also, after logging in, the "_logout_" button appears in the footer, so you use that to log out. However, due to the functionality of the UH CAS authentication, you must clear your cookies if you don't want your next "Play now" click to automatically log you in.
-
-### Screenshots
-
-**Here are some current screenshots of our app**
-
-#### Landing Page (day version)
-![Landing page](/screenshots/landingpage.png)
+If you see the following screen, that means you've clicked on the link above and you are now on Manoa: The Gathering. Congratulations!
 <br>
+**Landing Page**
+![Landing Page](/screenshots/landing.png)
+<br>
+The footer at the bottom is how you'll navigate our site. First and foremost, let's look at the _about_ page so you know what we're all about.
+<br>
+**About Page**
+![About Page](/screenshots/about.png)
+<br>
+Once you're done reading about how awesome, our app is, head on over to the _tutorial_ page, so you can get a quick refresher on how MtG plays, and so you don't accidentally break our rules and get banned.
+<br>
+**Rules Page**
+![Rules Page](/screenshots/rules.png)
+<br>
+When you first arrive at the tutorial page, there will be a list of links you can click to access the specific rules. The first, and most important, one is our _Code of Conduct_ (pictured above). This details the rules of our app, so read carefully.
+<br>
+Alright, let's get back to our _home_ page. If you click on the _Play now_ button, you'll be prompted to sign in using your UH account. Upon doing so, you'll notice that the _Play now_ button has changed to _Find a Match_. This is what you'll want to press if you actually want to use our app.
+<br>
+**Chat Page**
+![Chat Page](/screenshots/chat.png)
+<br>
+Now you're in our _chat_ page! You can interact with other online users (listed on the right) by typing your messages into the text box below the chat. If you click on an online user, it replaces the chat with a DM between the two of you. If you want to go back to the general chat, click on the button labeled _General Chat_.
+<br>
+Once you're done chatting and making friends, you can start playing a game with someone else. If you click on someone's username and click on the button labeled _Match Request_, it sends them a match request. You'll notice messages appearing in the box below the chat. Once it tells you that the requested person has accepted the match request, click on _Accept_ and you'll get into the game. On the other hand, if someone sends you a match request, you can click on their name and then the _Accept_ button to accept their request.
+<br>
+**Battle Page**
+![Battle Page](/screenshots/battle.png)
+<br>
+Now that you're in the battle page, you'll see in the chat box who was randomly assigned to go first. That person can draw and play their turn through the steps of Magic (detailed in the tutorial page). There is another chat box within the battle page for you to communicate with your opponent, and buttons that are intuitively labeled with what they do. For instance, _Draw_ has you draw a card from your deck. On the left, you'll see the Life Points of both players and you can add or subtract from the LP. 
+Note that when you're playing, it tells you who is on the green side and who is on the blue side. Please only play and interact with the cards on your proper side, or that will be a violation of our rules. Furthermore, your initial hand will be laid face-down. Clicking on the cards in your hand will flip them face-up to be seen only by you.
 
-#### Landing Page (night version)
-![Landing page night](/screenshots/landingpagev2.png)
-<br>
-#### About Page
-![About page](/screenshots/aboutpage.png)
-<br>
-#### Match & Chat Page
-![Match Page](/screenshots/matchpage.png)
-<br>
-#### Terminology Page
-![Terminology Page](/screenshots/Terms.png)
-<br>
-#### Gameplay Page
-![Gameplay Page](/screenshots/Game.png)
+Have fun!
 
 ## Developer Guide
 
