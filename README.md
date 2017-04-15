@@ -6,7 +6,7 @@ Manoa: The Gathering is a free, fun, and functional online simulator of the trad
 
 ## Current site
 Temporarily hosted on heroku. Still in testing phase. Accounts by request.
-[Click here](https://manoatg.herokuapp.com)
+https://manoatg.herokuapp.com
 
 ## Okay, what do I need to know to play MtG?
 
