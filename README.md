@@ -5,8 +5,8 @@
 Manoa: The Gathering is a free, fun, and functional online simulator of the trading card game Magic: The Gathering. But wait, it gets better! As the name implies, MtG (Manoa: The Gathering) is unique from Magic as it focuses on the lore and monuments of the University of Hawaii at Manoa.
 
 ## Current site
-
-[Click here](https://manoathegathering.meteorapp.com/) to play!
+Temporarily hosted on heroku. Still in testing phase. Accounts by request.
+[Click here](https://manoatg.herokuapp.com)
 
 ## Okay, what do I need to know to play MtG?
 
@@ -17,7 +17,28 @@ First and foremost, you'll need a University of Hawaii account to sign in and pl
 If you see the above screen, that means you've clicked on the link above and you are now on Manoa: The Gathering. Congratulations!
 <br>
 <br>
-The footer at the bottom is how you'll navigate our site. First and foremost, let's look at the _about_ page so you know what we're all about.
+The footer at the bottom is how you'll navigate our site.
+<br>
+
+**Chat Page**
+![Chat Page](/screenshots/chatroom.png)
+<br>
+<br>
+Now you're in our _chat_ page! You can interact with other online users (listed on the right) by typing your messages into the text box below the chat. If you click on an online user, it replaces the chat with a DM between the two of you. If you want to go back to the general chat, click on the button labeled _General Chat_. **Awesome chat cheat: type "_rainbows_" without the quotes and be amazed!** If you're super lame and don't like it, type in "_no rainbows_".
+<br>
+<br>
+Once you're done chatting and making friends, you can start playing a game with someone else. If you click on someone's username and click on the button labeled _Match Request_, it sends them a match request. You'll notice messages appearing in the box below the chat. Once it tells you that the requested person has accepted the match request, click on _Accept_ and you'll get into the game. On the other hand, if someone sends you a match request, you can click on their name and then the _Accept_ button to accept their request.
+<br>
+<br>
+**Battle Page**
+![Battle Page](/screenshots/play.png)
+<br>
+<br>
+Sample duel in action. Click cards to interact with them. (tap, untap, sacrifice, attack, block, etc.)
+<br>
+There is another chat box within the battle page for you to communicate with your opponent to help resolve complex card effects. Add/Subtract your own lifepoints accordingly. OGY to view your opponent's graveyard. GY to view yours and also exile cards for effects.
+<br>
+<br>
 <br>
 <br>
 **About Page**
@@ -37,53 +58,19 @@ When you first arrive at the tutorial page, there will be a list of links you ca
 Alright, let's get back to our _home_ page. If you click on the _Play now_ button, you'll be prompted to sign in using your UH account. Upon doing so, you'll notice that the _Play now_ button has changed to _Find a Match_. This is what you'll want to press if you actually want to use our app.
 <br>
 <br>
-**Chat Page**
-![Chat Page](/screenshots/chat.png)
-<br>
-<br>
-Now you're in our _chat_ page! You can interact with other online users (listed on the right) by typing your messages into the text box below the chat. If you click on an online user, it replaces the chat with a DM between the two of you. If you want to go back to the general chat, click on the button labeled _General Chat_. **Awesome chat cheat: type "_rainbows_" without the quotes and be amazed!** If you're super lame and don't like it, type in "_no rainbows_".
-<br>
-<br>
-Once you're done chatting and making friends, you can start playing a game with someone else. If you click on someone's username and click on the button labeled _Match Request_, it sends them a match request. You'll notice messages appearing in the box below the chat. Once it tells you that the requested person has accepted the match request, click on _Accept_ and you'll get into the game. On the other hand, if someone sends you a match request, you can click on their name and then the _Accept_ button to accept their request.
-<br>
-<br>
-**Battle Page**
-![Battle Page](/screenshots/battle.png)
-<br>
-<br>
-Now that you're in the battle page, you'll see in the chat box who was randomly assigned to go first. That person can draw and play their turn through the steps of Magic (detailed in the tutorial page). You can click on your cards to tap them! Isn't that awesome?
-<br>
-There is another chat box within the battle page for you to communicate with your opponent, and buttons that are intuitively labeled with what they do. For instance, _Draw_ has you draw a card from your deck. On the left, you'll see the Life Points of both players and you can add or subtract from the LP.
-<br>
-<br>
-Note that when you're playing, it tells you who is on the green side and who is on the blue side. Please only play and interact with the cards on your proper side, or that will be a violation of our rules. Furthermore, your initial hand will be laid face-down. Clicking on the cards in your hand will flip them face-up to be seen only by you.
-<br>
-<br>
-Have fun!
 
 ## Developer Guide
 
-If you are a developer that would like to modify our app, you can click on the above button leading to our GitHub repo and clone it. The `master` branch is what is currently deployed to Galaxy. Our `kadira` branch is like our testing branch, in which we test functionalities before merging to `master`. The other branches are pretty self-explanatory, and our app follows the recent ES6 Meteor app structure.
-
-When you want to test out your changes, while you're in the _app_ directory, type the following command into your terminal: _meteor --settings ../config/settings.development.json_
+Currently, this is being maintained by Creighton Chan (cj38@hawaii.edu). In need of betatesters and account creation is not public yet. Request an account if willing to test the system. Currently only one deck is implemented.
 
 If you'd like to make changes, do what you want and then submit a pull request. We'll look it over and either merge it, or let you know about what should be changed!
 
+## Current Team as of 4/15/2017
+[Creighton Chan](https://creightonchan.github.io/)
 
-## Initial User Study
+## Past Contributors (inactive)
 
-Our users found that they didn't have a problem navigating the site as a whole. All but one immediately went to the about page, then logged in. As soon as they logged in, they all played with the chat feature for quite a while.
-
-At that point, we didn't have the battling working, so they briefly looked through the tutorial. All of our users knew how to play already, so they didn't spend much time there.
-
-All of them seemed to get the most enjoyment out of cosmetic details, such as the day/night loading page with the swinging Log In button and rainbows on the chat page.
-
-One mentioned that the "Hello, name" on the home page is a little hard to see, and a few other small things. But overall, they all loved the site.
-
-
-## Contributors
-
-[Irene Fang](https://irene-f.github.io/), [Creighton Chan](https://creightonchan.github.io/), [John Headland](https://jheadland.github.io/), [Lexa Mink-Flacco](https://acvmf.github.io/)
+[Irene Fang](https://irene-f.github.io/), [John Headland](https://jheadland.github.io/), [Lexa Mink-Flacco](https://acvmf.github.io/)
 
 ## Milestones
 
